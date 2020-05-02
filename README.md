@@ -5,3 +5,4 @@ GoMyCode - Machine Learning course
 - Let_s_apply_some_data_visualization_knowledge.ipynb : Checkpoint2 Let's apply some data visualization knowledge
 - Linear_Regression.ipynb : checkpoint 3  Regression
 - Logistic_Regression.ipynb : checkpoint 4  Logistic Regression
+- KNN_CP.ipynb : checkpoint 5  KNN from scratch
