@@ -6,3 +6,4 @@ GoMyCode - Machine Learning course
 - Linear_Regression.ipynb : checkpoint 3  Regression
 - Logistic_Regression.ipynb : checkpoint 4  Logistic Regression
 - KNN_CP.ipynb : checkpoint 5  KNN from scratch
+- Lets_plot_some_trees.ipynb : checkpoint 6  Decision Tree & Random Forest
