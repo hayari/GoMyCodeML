@@ -7,3 +7,4 @@ GoMyCode - Machine Learning course
 - Logistic_Regression.ipynb : checkpoint 4  Logistic Regression
 - KNN_CP.ipynb : checkpoint 5  KNN from scratch
 - Lets_plot_some_trees.ipynb : checkpoint 6  Decision Tree & Random Forest
+- Lets_discover_the_inherent_clusters.ipynb : checkpoint 7 K-means & Hierarchical clustering
